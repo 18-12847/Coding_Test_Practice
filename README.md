@@ -6,5 +6,11 @@
 <br />
 
 ## BAEKJOON
-### Bronze(V ~ I)
-### Silver(V ~ I)
+### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Bronze">Bronze(5 ~ 1)</a>
+* #### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Bronze/5">Bronze 5</a>
+* #### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Bronze/4">Bronze 4</a>
+<br />
+
+### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Silver">Silver(5 ~ 1)</a>
+* #### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Silver/5">Silver 5</a>
+* #### <a href = "https://github.com/18-12847/Coding_Test/tree/main/Baekjoon/Silver/4">Silver 4</a>
