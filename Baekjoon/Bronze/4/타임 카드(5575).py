@@ -1,0 +1,10 @@
+import sys
+a = list(map(int, sys.stdin.readline().split()))
+b = list(map(int, sys.stdin.readline().split()))
+c = list(map(int, sys.stdin.readline().split()))
+a = (a[3] * 3600 + a[4] * 60 + a[5]) - (a[0] * 3600 + a[1] * 60 + a[2])
+b = (b[3] * 3600 + b[4] * 60 + b[5]) - (b[0] * 3600 + b[1] * 60 + b[2])
+c = (c[3] * 3600 + c[4] * 60 + c[5]) - (c[0] * 3600 + c[1] * 60 + c[2])
+print(a // 3600, a % 3600 // 60, a % 60)
+print(b // 3600, b % 3600 // 60, b % 60)
+print(c // 3600, c % 3600 // 60, c % 60)
